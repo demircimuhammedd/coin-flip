@@ -1,8 +1,6 @@
 # CoinFlip (Solana)
 
 #### Demo
-https://sol-coinflip.vercel.app/
--> Runs in devnet
 Run
 ### Provable Coin Flip Program on Solana.
 The app consists of a vendor and a player. 
